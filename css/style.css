@@ -591,15 +591,12 @@ video {
 }
 
 .page-5 .video-img {
+    background-image: url(../images/video-img.jpg);
     height: 300px;
     width: 330px;
     margin-top: 30px;
     border-radius: 30px;
     /* object-fit: cover; */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url(../images/video-img.jpg);
 }
 
 .page-5 .video-img i {
