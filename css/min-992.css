@@ -1,0 +1,134 @@
+@media (min-width: 992px) {
+    body {
+        overflow-x: hidden;
+    }
+    .sub-header .line {
+        visibility: visible;
+        display: inline;
+    }
+
+    main nav .caption .nav-bar .logo h1 {
+        padding-left: 20px;
+    }
+
+    .page-2 .templates {
+        display: flex;
+        width: 100%;
+        overflow: auto;
+    }
+
+    .page-2 .catgories-cards .meeting-cards {
+        width: 60%;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards .card {
+        width: 280px;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards .card .img img {
+        width: 280px;
+        height: 200px;
+    }
+
+    .page-2 .catgories-cards .catgories .card {
+        margin: 0px 30px;
+        width: 250px;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards {
+        margin: 50px 10px;
+    }
+
+    .page-3 {
+        height: fit-content;
+        padding: 40px 0px;
+    }
+
+    .page-3 .apply .item {
+        margin: 20px;
+        width: 500px;
+    }
+
+    .page-3 .item h1 {
+        /* font-size: 20px; */
+    }
+
+    .page-3 .item p {
+        /* font-size: 16px; */
+    }
+
+    .page-3 .apply .template {
+        width: 350px;
+        margin: 0px 20px;
+    }
+
+    .page-4 {
+        height: fit-content;
+        padding-bottom: 50px;
+    }
+
+    .page-2 .catgories-cards .catgories
+    .page-4 .cards {
+    width: 100%;
+    overflow: auto;
+    }
+
+    .page-5 {
+        padding: 20px;
+    }
+
+    .page-5 .count-area .heading p {
+        font-size: 26px;
+    }
+
+    .page-5 .count-area-content {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .page-5 .count-area .count-area-content .card-1 {
+        height: 150px;
+        width: 230px;
+    }
+
+    .page-5 .count-area .count-area-content .card-2 {
+        height: 150px;
+        width: 230px;
+        margin-top: 30px;
+    }
+
+    .page-5 .video-img {
+        height: 300px;
+        width: 300px;
+        margin-top: 80px;
+        border-radius: 30px;
+        background-image: url(/website/images/video-img.jpg);
+    }
+    
+    .page-5 .video-img i {
+        font-size: 60px;
+        color: white;
+        margin: 160px 160px;
+    }
+
+    .page-6 {
+        height: 600px;
+    }
+    .page-6 .form {
+        width: 380px;
+        margin: 50px;
+    }
+
+    .page-6 .form form #message {
+        width: 320px;
+    }
+
+    .page-6 .right-info {
+        margin: 50px;
+    }
+
+    .page-6 .right-info .info {
+        width: 400px;
+        height: 500px;
+    }
+}

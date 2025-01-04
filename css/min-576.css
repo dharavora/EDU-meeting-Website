@@ -1,0 +1,72 @@
+@media (min-width: 576px) {
+    .page-3 .item {
+        width: 500px;
+    }
+    
+    .page-2 {
+        height: fit-content;
+        padding-bottom: 50px;
+    }
+    
+    .page-2 .catgories-cards .catgories .card {
+        width: 520px;
+        margin: 0px 20px;
+    }
+    .page-2 .catgories-cards .meeting-cards .cards .card {
+        width: 500px;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards {
+        margin-left: 30px;
+    }
+    
+    .page-2 .catgories-cards .meeting-cards .cards .card .img img {
+        width: 500px;
+        /* max-height: 200px; */
+        object-fit: cover;
+    }
+
+    .page-3 {
+        height: fit-content;
+    }
+    .page-3 .apply .item {
+        margin: 0px 30px;
+    }
+
+    .page-3 .apply .template {
+        width: 530px;
+    }
+
+    .page-4 {
+        height: fit-content;
+        padding-bottom: 50px;
+    }
+
+    .page-5 .count-area .count-area-content .card-1 {
+        width: 500px;
+    }
+
+    .page-5 .count-area .count-area-content .card-2 {
+        width: 500px;
+    }
+
+    .page-5 .video-img {
+        width: 500px;
+        height: 350px;
+    }
+
+    .page-5 .video-img i {
+        font-size: 60px;
+        color: white;
+        margin: 130px 230px;
+    }
+
+    .page-6 .form {
+        width: 500px;
+    }
+
+    .page-6 .right-info .info {
+        width: 500px;
+        padding: 40px;
+    }
+}

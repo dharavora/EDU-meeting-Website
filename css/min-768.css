@@ -1,0 +1,105 @@
+@media (min-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-text {
+        width: 70%;
+        margin-left: 50px; 
+    }
+    .page-2 .catgories-cards .catgories .card {
+        width: 700px;
+        margin: 0px 30px;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards .card {
+        width: 700px;
+        /* height: 400px; */
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards .card .img img {
+        width: 700px;
+        height: 300px;
+        /* height: 400px; */
+        /* max-height: 200px; */
+        object-fit: cover;
+    }
+
+    .page-3 .apply .item {
+        width: 700px;
+    }
+
+    .page-3 .apply .template {
+        width: 700px;
+        padding: 40px;
+        margin: 0px 30px;
+    }
+
+    .page-4 .cards .card {
+        width: 300px;
+        background-color: white;
+    }
+    
+    .page-4 .cards .card .img img {
+        width: 300px;
+        object-fit: cover;
+    }
+
+    .page-5 {
+        padding: 30px;
+    }
+
+    .page-5 .count-area .heading p {
+        font-size: 38px;
+        margin-left: 10px;
+    }
+    .page-5 .count-area .count-area-content {
+        margin: 0px 0px;
+    }
+
+    .page-5 .count-area .count-area-content .card-1 {
+        width: 700px;
+    }
+
+    .page-5 .count-area .count-area-content .card-2 {
+        width: 700px;
+    }
+    .page-5 .video-img {
+        width: 700px;
+        height: 400px;
+    }
+
+    .page-5 .video-img i {
+        margin-left: 330px;
+        margin-top: 160px;
+    }
+
+    .page-6 {
+        height: 1200px;
+    }
+
+    .page-6 .form {
+        width: 700px;
+    }
+
+    .page-6 .form form #name {
+        padding: 0px 8PX;
+        width: 215px;
+        background-color: #F7F7F7;
+        border: 10PX solid #F7F7F7;
+        border-radius: 30px;
+        font-family: "Poppins", sans-serif;
+        margin: 10px;
+    }
+
+    .page-6 .form form #message {
+        padding: 0px 8px;
+        width: 650px;
+        margin: 10px;
+    }
+
+    .page-6 .right-info .info {
+        width: 700px;
+        padding: 40px;
+    }
+}
